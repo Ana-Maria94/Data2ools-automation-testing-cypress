@@ -1,0 +1,25 @@
+{
+  "name": "data2ools-automation-testing-cypress",
+  "version": "1.0.0",
+  "description": "automation testing data2ools app using cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ana-Maria94/Data2ools-automation-testing-cypress.git"
+  },
+  "author": "Ana-Maria Mihai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ana-Maria94/Data2ools-automation-testing-cypress/issues"
+  },
+  "homepage": "https://github.com/Ana-Maria94/Data2ools-automation-testing-cypress#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.14.0",
+    "mocha": "^10.2.0",
+    "npx": "^10.2.2"
+  }
+}
